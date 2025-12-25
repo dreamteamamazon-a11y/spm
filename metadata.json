@@ -1,0 +1,7 @@
+{
+  "name": "Little Talkers: English Buddy",
+  "description": "A friendly, voice-enabled English conversation partner for children ages 4-8. Learn words and sentences naturally!",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
